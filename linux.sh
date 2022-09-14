@@ -23,3 +23,4 @@ echo "My IP address is $ipaddress"
 sleep 3
 echo "Today's weather is $weather"
 echo "This another project fro my training"
+echo "Adding a line for making changes"
